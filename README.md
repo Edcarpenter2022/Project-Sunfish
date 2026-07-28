@@ -99,7 +99,7 @@ Electronics cluster after putting everything back together the first time
 - After successful completion of these steps, the previously yellow bar on the top left of the screen, will turn green and say "Ready to Launch"
 - You then are ready for your launch and are ok to load everything up and head to your launch site
 
-&nbsp;&nbsp;&nbsp;&nbsp;Launching 
+&nbsp;&nbsp;&nbsp;&nbsp;**Launching** 
 
 - When at your launch point, remove everything from the wagon and set up your area
 - Make sure you have QGroundControl launched on your computer and the Fathom X Topside Interface plugged into your computer
