@@ -31,6 +31,7 @@ There is three main phases to this project
 &nbsp;&nbsp;&nbsp;&nbsp;After retrieving Sunfish from storage, the first task was opening up both enclosures and cleaning all of the components. After sitting in storage for 4-5 years, Sunfish needed a tune-up.
 
 <img width="600" height="450" alt="IMG_9633" src="https://github.com/user-attachments/assets/bae438af-0f04-41d9-b9de-6e320f62e1a2" />
+
 First look at sunfish once pulled from storage
 
 
@@ -40,14 +41,17 @@ First look at sunfish once pulled from storage
 
 <img width="600" height="450" alt="IMG_9712" src="https://github.com/user-attachments/assets/d98c8b99-f567-4899-ad99-9453a0c3b29b" />
 <img width="600" height="450" alt="IMG_9712" src="https://github.com/user-attachments/assets/40035f61-f466-46ae-8fb8-4990fa66b178" />
+
 Electronics, and how they were seated in the main enclosure 
 
 
 <img width="600" height="450" alt="IMG_9715" src="https://github.com/user-attachments/assets/848552d6-701e-44df-9449-8dc53b736995" />
+
 Sunfish with all of the enclosures removed and the electronics off the frame
 
 
 <img width="600" height="450" alt="IMG_9722" src="https://github.com/user-attachments/assets/fc15c4b3-5d5b-48b6-85ba-0645b7a05a62" />
+
 Electronics cluster after putting everything back together the first time
 
 
