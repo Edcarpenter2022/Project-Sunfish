@@ -2,10 +2,10 @@
 Summer internship project funded by the University of Idaho
 
 **Project Authors:** 
-led by Ethan Carpenter, supported by Isaiah Preston and Karson Vordahl 
+&nbsp;&nbsp;&nbsp;&nbsp;led by Ethan Carpenter, supported by Isaiah Preston and Karson Vordahl 
 
 **Project Supervisors**
-Dr. John Shovic and Dr. Marz Everett 
+&nbsp;&nbsp;&nbsp;&nbsp;Dr. John Shovic and Dr. Marz Everett 
 
 # Overview
 
@@ -25,3 +25,25 @@ There is three main phases to this project
 
 **Phase three:**
 &nbsp;&nbsp;&nbsp;&nbsp;Testing components together and collecting samples with sunfish
+
+# Phase One
+
+&nbsp;&nbsp;&nbsp;&nbsp;After retrieving Sunfish from storage, the first task was opening up both enclosures and cleaning all of the components. After sitting in storage for 4-5 years, Sunfish needed a tune-up.
+
+<img width="5712" height="4284" alt="IMG_9633" src="https://github.com/user-attachments/assets/bae438af-0f04-41d9-b9de-6e320f62e1a2" />
+First look at sunfish once pulled from storage
+
+This was done by removing all of the electronics from the enclosures and unseating all of the connections. This was done over the course of 2 days, cleaning and identifying and labeling what each of the components do and where they are located. This allowed me to see what we had and what was unneeded for the project and what components couldn't be sacrificed. 
+
+<img width="3024" height="4032" alt="IMG_9712" src="https://github.com/user-attachments/assets/d98c8b99-f567-4899-ad99-9453a0c3b29b" />
+<img width="3024" height="4032" alt="IMG_9712" src="https://github.com/user-attachments/assets/40035f61-f466-46ae-8fb8-4990fa66b178" />
+Electronics, and how they were seated in the main enclosure 
+
+<img width="4284" height="5712" alt="IMG_9715" src="https://github.com/user-attachments/assets/848552d6-701e-44df-9449-8dc53b736995" />
+Sunfish with all of the enclosures removed and the electronics off the frame
+
+<img width="3024" height="4032" alt="IMG_9722" src="https://github.com/user-attachments/assets/fc15c4b3-5d5b-48b6-85ba-0645b7a05a62" />
+Electronics cluster after putting everything back together the first time
+
+
+
