@@ -70,4 +70,39 @@ Electronics cluster after putting everything back together the first time
 
 # Prepping For a Dive
 
-&nbsp;&nbsp;&nbsp;&nbsp;Congradulations! if you are reading this, you have passed the pressure tests and you are ready to dive. 
+&nbsp;&nbsp;&nbsp;&nbsp;Congradulations! if you are reading this, you have passed the pressure tests and you are ready to dive.
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;You will need the following items:
+- QGroundControl software installed on your computer, if you're using your personal computer for the dive, or one of the two computers that come with the project has the software already installed. 
+- Sunfish itself
+- 300 meter tether (this is the spooled tether)
+- smaller tether (This tether is wrapped up in the backpack and is used to attach to the spool, and then to the fathomX interface box)
+- Fathom X interface box (blue box with a power cord found with it)
+- Fathom X interface box power cord
+- USB cable that attaches the Fathom X box to your computer
+- Xbox controller (wired or wireless)
+- Costco wagon (so you can load everything into the wagon and transport to the launch site)
+- Sunfish backpack (in this backpack, you will store everything but the sunfish and the 300m tether, inside the backpack is a flat tackle box tray that holds extra components that you might need as well as a wrench that fits the enclosure cap screws. I suggest throwing in a IFIXIT setup so you can easily remove the smaller cap screws)
+
+&nbsp;&nbsp;&nbsp;&nbsp;Before loading everything up in the wagon and making the trek to the launch site, you need to do a couple of things first.
+
+- You will need to ensure that there is no leak in the enclosure, always perform a pressure test before you go out for a dive, even if you tested the day before and it passed, something might have changed overnight that is unseen, always do a pressure right before you leave for launch, or if the sub experiences a lot of jostling around during transport, you will need to perform one at the launch site.
+- Boot up QGroundControl and run through the diagnostics, this is done by following these steps which are provided on the BlueRobotics web page
+  &nbsp;&nbsp;&nbsp;&nbsp;https://bluerobotics.com/learn/bluerov2-software-setup/#installing-qgroundcontrol
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
