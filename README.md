@@ -53,7 +53,7 @@ Electronics cluster after putting everything back together the first time
 
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;After the completion of our first successful dive, we identified some small issues and somethings that needed to be fixed. There was a small leak in the main enclosure, during the dive the enclosure took on about 2 tablespoons of water, and one of the main steering thrusters on the front side was non-operational. After further inspection of the non-operational thruster, it appeared that while in storage, there was stagnant water inside the thruster itself on the brushless motor and corroded part of the thrusters battery housing, which caused the motor to then grind on itself and cause damage to the thruster itself. The solution was simple, the non-operational thruster was then moved from the primary steering position, to one of the "extra" slots alvailabe on the top side, used for surfacing the drone, this slot was available and did not affect any operation of the drone due to this being part of the optional "heavy thruster configuration" that was purchased, which added an extra 2 thrusters to the surfacing (or top side) portion of the drone. Once swapped the next challenge was identifying and fixing the leak.
+&nbsp;&nbsp;&nbsp;&nbsp;After the completion of our first successful dive, we identified some small issues and somethings that needed to be fixed. There was a small leak in the main enclosure, during the dive the enclosure took on about 2 tablespoons of water, and one of the main steering thrusters on the front side was non-operational. After further inspection of the non-operational thruster, it appeared that while in storage, there was stagnant water inside the thruster itself on the brushless motor and corroded part of the thrusters battery housing, which caused the motor to then grind on itself and cause damage to the thruster itself. The solution was simple, the non-operational thruster was then moved from the primary steering position, to one of the "extra" slots available on the top side, used for surfacing the drone, this slot was available and did not affect any operation of the drone due to this being part of the optional "heavy thruster configuration" that was purchased, which added an extra 2 thrusters to the surfacing (or top side) portion of the drone. Once swapped the next challenge was identifying and fixing the leak.
 
 &nbsp;&nbsp;&nbsp;&nbsp;Each enclosure housing has three separate parts to it, 2 end caps, which split open to 2 different parts each, and the acrylic tube itself. So, taking apart each component of the housings, each o-ring was replaced and a fresh coat of silicon waterproofing grease was applied. After putting the enclosure back together a pressure test was conducted.(See "Conducting a Pressure Test") Once reached 15mm/hg, it needs to sit for 10 minutes, if the pressure drops below 14mm/hg in that 10 minutes the pressure test is considered a failure and is not safe to put in the water. The sub continually failed these pressure tests, it was pointed out that it might be the enclosure itself, so we swapped the factory 12" acrylic enclosure tube with a 18" acrylic enclosure, nicknamed "Extendo-Tubo". Once replacing the tube, the leak slowed, but it was still failing the pressure tests. To be through, before ordering all new components,  I removed each of the plugs on the back of the enclosure, these seating screws have the wires leading to each of the thrusters as well as the lights and the battery enclosure, protruding from the back, in order to unseat these screws, you have to remove the thrusters from their mounted position. After removing the enclosure bolts, you will see a small o-ring on the inside face of the bolt, all 18 of the o-rings were pulled, replaced and re-greased. They were then screwed back in and torqued by hand to the correct positions. The same was done for the smaller cap screws that are used to hold the 2 different parts of the end caps together. After replacing and torquing them down with a Allen key by hand, Another pressure test was conducted, this test passed and we were ready for our second successful dive (see "Prepping For a Dive").
 
@@ -76,6 +76,7 @@ Electronics cluster after putting everything back together the first time
 &nbsp;&nbsp;&nbsp;&nbsp;You will need the following items:
 - QGroundControl software installed on your computer, if you're using your personal computer for the dive, or one of the two computers that come with the project has the software already installed. 
 - Sunfish itself
+- Battery for the sub (this should be charged before the dive fully so it does not die in the water)
 - 300 meter tether (this is the spooled tether)
 - smaller tether (This tether is wrapped up in the backpack and is used to attach to the spool, and then to the fathomX interface box)
 - Fathom X interface box (blue box with a power cord found with it)
@@ -90,7 +91,25 @@ Electronics cluster after putting everything back together the first time
 - You will need to ensure that there is no leak in the enclosure, always perform a pressure test before you go out for a dive, even if you tested the day before and it passed, something might have changed overnight that is unseen, always do a pressure right before you leave for launch, or if the sub experiences a lot of jostling around during transport, you will need to perform one at the launch site.
 - Boot up QGroundControl and run through the diagnostics, this is done by following these steps which are provided on the BlueRobotics web page
   &nbsp;&nbsp;&nbsp;&nbsp;https://bluerobotics.com/learn/bluerov2-software-setup/#installing-qgroundcontrol
-  
+- Once you have completed the Sensor Calibration you need to ensure that in the "Vehicle Setup" tab, under "Frame" you need to ensure the BloueROV2 Heavy/Vectored 6DOF setting is enabled. Remember, that after each calibration setting that is changed, you have to reboot the vehicle entirely.
+- After successful completion of these steps, the previously yellow bar on the top left of the screen, will turn green and say "Ready to Launch"
+- You then are ready for your launch and are ok to load everything up and head to your launch site
+
+&nbsp;&nbsp;&nbsp;&nbsp;Launching 
+
+- When at your launch point, remove everything from the wagon and set up your area
+- Make sure you have QGroundControl launched on your computer and the Fathom X Topside Interface plugged into your computer
+- On the back of sunfish there is a male plug, plug the matching female end from the spooled tether into that and secure it multiple times with electrical tape to ensure it is fully waterproofed.
+- Then connect the looped end of the tether, to the carabiner clip attached to the sub. This makes it so if you need to retrieve it for any reason, you can pull on the tether to reel it back in and not put tension on the plug itself. This is what the tether is made for.
+- Hook the smaller tether to the spool side and then to the Fathom X Topside Interface
+- Plug in the Xbox controller to your computer.
+- You can either choose to place the sunfish in the water gently, or toss it in from the dock if you are on a dock, if you are just on the embankment of a river or the lake, do not throw it, place the drone in the water, so it is all covered, you are going to want to have enough submersion so it can have plenty of room to move up and forward so it doesn't scrape on the bottom.
+- It is also a wise idea to have someone in the water with sunfish, two people are preferred if you are launching off a dock, and one person suffices if you are launching in a shallower area.
+- Once the sub is fully submerged, click the green "Ready to Launch" button. a small slider arrow will pop up on the bottom of the screen the reads "ready to arm" slide this to the right and the sunfish will arm and then be operational.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Congratulations on your successful dive!
+
+
 
 
 
