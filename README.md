@@ -33,17 +33,24 @@ There is three main phases to this project
 <img width="5712" height="4284" alt="IMG_9633" src="https://github.com/user-attachments/assets/bae438af-0f04-41d9-b9de-6e320f62e1a2" />
 First look at sunfish once pulled from storage
 
-This was done by removing all of the electronics from the enclosures and unseating all of the connections. This was done over the course of 2 days, cleaning and identifying and labeling what each of the components do and where they are located. This allowed me to see what we had and what was unneeded for the project and what components couldn't be sacrificed. 
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;This was done by removing all of the electronics from the enclosures and unseating all of the connections. This was done over the course of 2 days, cleaning and identifying and labeling what each of the components do and where they are located. This allowed me to see what we had and what was unneeded for the project and what components couldn't be sacrificed. 
+
 
 <img width="3024" height="4032" alt="IMG_9712" src="https://github.com/user-attachments/assets/d98c8b99-f567-4899-ad99-9453a0c3b29b" />
 <img width="3024" height="4032" alt="IMG_9712" src="https://github.com/user-attachments/assets/40035f61-f466-46ae-8fb8-4990fa66b178" />
 Electronics, and how they were seated in the main enclosure 
 
+
 <img width="4284" height="5712" alt="IMG_9715" src="https://github.com/user-attachments/assets/848552d6-701e-44df-9449-8dc53b736995" />
 Sunfish with all of the enclosures removed and the electronics off the frame
+
 
 <img width="3024" height="4032" alt="IMG_9722" src="https://github.com/user-attachments/assets/fc15c4b3-5d5b-48b6-85ba-0645b7a05a62" />
 Electronics cluster after putting everything back together the first time
 
 
+&nbsp;&nbsp;&nbsp;&nbsp;After the completion of our first successful dive, we identified some small issues and somethings that needed to be fixed. There was a small leak in the main enclosure, during the dive the enclosure took on about 2 tablespoons of water, and one of the main steering thrusters on the front side was non-operational. After further inspection of the non-operational thruster, it appeared that while in storage, there was stagnant water inside the thruster itself on the brushless motor and corroded part of the thrusters battery housing, which caused the motor to then grind on itself and cause damage to the thruster itself. The solution was simple, the non-operational thruster was then moved from the primary steering position, to one of the "extra" slots alvailabe on the top side, used for surfacing the drone, this slot was available and did not affect any operation of the drone due to this being part of the optional "heavy thruster configuration" that was purchased, which added an extra 2 thrusters to the surfacing (or top side) portion of the drone. Once swapped the next challenge was identifying and fixing the leak.
 
+&nbsp;&nbsp;&nbsp;&nbsp;Each enclosure housing has three separate parts to it, 2 end caps, which split open to 2 different parts each, and the acrylic tube itself. So, taking apart
