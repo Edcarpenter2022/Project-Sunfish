@@ -30,7 +30,7 @@ There is three main phases to this project
 
 &nbsp;&nbsp;&nbsp;&nbsp;After retrieving Sunfish from storage, the first task was opening up both enclosures and cleaning all of the components. After sitting in storage for 4-5 years, Sunfish needed a tune-up.
 
-<img width="5712" height="4284" alt="IMG_9633" src="https://github.com/user-attachments/assets/bae438af-0f04-41d9-b9de-6e320f62e1a2" />
+<img width="800" height="600" alt="IMG_9633" src="https://github.com/user-attachments/assets/bae438af-0f04-41d9-b9de-6e320f62e1a2" />
 First look at sunfish once pulled from storage
 
 
