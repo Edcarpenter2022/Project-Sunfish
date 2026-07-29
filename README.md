@@ -133,11 +133,64 @@ Electronics cluster after putting everything back together the first time
 
 &nbsp;&nbsp;&nbsp;&nbsp;Lid with sampling tube fed through
 
+# List of components both on and extra for Sunfish 
+&nbsp;&nbsp;&nbsp;&nbsp;Components that are currently on and infuse of the sunfish will be bolded, extra components will not be 
 
-
-
-
-
-
-
+- **18 inch enclosure tube**
+- 12 inch enclosure tube
+- **Acrylic dome lid**
+- **rear end cap aluminum lid with 18 port holes**
+- **8 inch acrylic battery enclosure**
+- **aluminium endcap for battery enclosure**
+- **aluminium endcap for battery enclosure with 4 port holes**
+- **2 cradles for battery enclosure**
+- **2 cradles for main enclosure**
+- **6 fairings with buoyancy foam**
+- **Pixhawk flight controller** with original box and instructions
+- **Raspberry pi 3 + SD Card**
+- **Motor terminal block, x2 3 slot housings, and x1 1 slot housing**
+- **7 Electronic Speed Controllers (ESC)**
+- **Fathom-X Tether Interface Board**
+- **Mount to fix camera to front**
+- **"Wire guard" located in the "back" of the enclosure between the main "board" and the endcap, used to guide wires through to keep organized**
+- **2 lights (one wire lead)**
+- **8 thrusters, labeled 1-8, (thruster number 1 is non-operational and has moved to the topside)**
+- **Skid plate**
+- 2 fairings, one with foam
+- **6 7oz ballast weights**
+- Big bag of dry&dry Desiccant
+- 2 lithium ion batteries (14.8V, 18aH)
+- Bag of extra plug screws
+- Bag of O-rings
+- Bag of plugs for testing your vacuum pump
+- 2 Vacuum pumps
+- 8 inch aluminium enclosure with both endocarps, this contains a dissolved oxygen sensor with all hardware inside, this has not been tested or touched during this project
+- BlueRobotics newtonian gripper
+- 3 BlueRobotics depth ping sensors
+- Acrylic battery enclosure
+- 14 hole (non-threaded) enclosure cap
+- 2 full setups for battery enclosure caps
+- VGA to USB-A adapter for camera use (removed because it was spliced incorrectly, as well as non-operational and un-needed)
+- 3 bags of moisture sensors and relevant pieces
+- 2 wired Xbox controllers
+- Fathom X topside interface
+- Bag of 2 SD cards (copy of sunfish with no access points, has mavlink interface and some test programs from previous student, desktop PI GUI added, Python 3 added
+- "Tether" to connect the Dissolved Oxygen sensor to the main enclosure and the PI
+- Tackle box insert with extra hardware/ diagnostic tools for dive
+- 4 notebooks and manilla envelope of relevant documentation (from previous project leads, both project Catfish and Sunfish)
+- External hard drive containing Sunfish dive documents, videos, and reports
+- 2 laptops, both containing relevant documentation and were purchased for these projects as well as the chargers
+- GoPro used for project, but resides with Marz Everett
+- Battery charger with original box
+- Sunfish Backpack
+    - AC/DC power bank with charger
+    - Small tether used to connect spool to Fathom Topside
+    - Misc. zip ties
+    - Silicon grease
+    - Electrical tape
+- Costco Tote
+    - Minnow drone, disassembled, but some components work and you can use to test code or hardware on it
+    - Battery for powering Minnow
+- Automatic collection device
+- Potentially the Dynamixel servo motors with a Pi 3 
 
