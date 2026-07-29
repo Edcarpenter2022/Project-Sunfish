@@ -113,13 +113,25 @@ Electronics cluster after putting everything back together the first time
 
 &nbsp;&nbsp;&nbsp;&nbsp;Congratulations on your successful dive!
 
+# Automatic Sample Collection Device
 
+&nbsp;&nbsp;&nbsp;&nbsp;The current prototype is what I am calling a "dry prototype" this means its not waterproofed, or ready for diving, only a concept of what this will look like and how it can function, without tackling any of the waterproofing factors. The design consists of a 3D printed honeycomb enclosure that encases a bag with a silicon tube. There is also a "lid" that vertically slides into place over the mouth, that has a channel you can feed the tube through, the tube will end up facing vertically out of the channel, in line with the cover. Inside the tube is placed a ball check valve that has been 3D printed and designed by Ethan Carpenter, this consists of, 3 parts, the "stem", which is a short pipe, which graduates into a wider pipe with a little shelf in the middle for the spring to sit on. the "spring and ball" which is exactly what it sounds like, a spring attached to a ball. Finally the "Cover" this cover has an o-ring attached to it and gets superglued over the spring and ball, creating a seal. 
 
+&nbsp;&nbsp;&nbsp;&nbsp;The plan is to have a Dynamixal servo motor (either the AX-18a or the AX-12a) push down on the ball, releasing the pressure and causing the bag to fill with water. when the sample is completed, it will then release the downward pressure it is holding on the ball and then cause the water flow to be cutoff. This design has been tested without the Dynamixal, and has shown one issue that I have seen. The main issue is that the bag, being deflated and no air inside, so to not affect the buoyancy of the sub, needs some sort of external force placed upon the bag encourage it to open. This is how we avoid using an actual pump at the end to pump the water in. I have thought of attaching somehow a spring to both sidewalls of the bags and then to the outer honeycomb enclosure, that would, when the ball valve is open, force the bag to open, therefore sucking water in and filling it. but I don't think that there is enough force applied by the spring to suck that much water in, this could be because the tube itself is at a 90degree angle, so there is limited room for the water to come in, as well as not enough pressure to pull water inside. The second idea I had, was having a compressed spring inside the bag, it would need to be powerful, and sterile so it docent affect the sample, but if it were compressed inside the bag, and then once the tube is open, it expands, that might create enough force to pull water in, of course then you would have a spring in your sample and then need to get it out. One other idea I had was to create a new bag system that made it so the bag itself was filled with air, and being submerged, this added air might counteract the weight added by the collection device. This would also mean that we would need to add a vent hose out of the top of the bag, so when water comes in, the air isn't escaping through the same hole.
 
+<img width="600" height="450" alt="IMG_0569" src="https://github.com/user-attachments/assets/069e03a5-2183-47bb-8c40-49547a425aa7" />
 
+&nbsp;&nbsp;&nbsp;&nbsp;Ball check valve 3D printed Prototype 
 
+<img width="600" height="450" alt="IMG_0571" src="https://github.com/user-attachments/assets/f3223b0f-f49e-4d14-8ed5-c1ef57d80b91" />
+<img width="600" height="450" alt="IMG_0572" src="https://github.com/user-attachments/assets/9ff41bca-bf83-4f42-9dab-de8848500802" />
 
+&nbsp;&nbsp;&nbsp;&nbsp;3D printed honeycomb enclosure
 
+<img width="600" height="450" alt="IMG_0574" src="https://github.com/user-attachments/assets/6d89df80-d436-4595-a29e-9180a8ff3344" />
+<img width="600" height="450" alt="IMG_0573" src="https://github.com/user-attachments/assets/c760dba5-bf34-4c0d-b70b-a1020fd685a6" />
+
+&nbsp;&nbsp;&nbsp;&nbsp;Lid with sampling tube fed through
 
 
 
